@@ -9,9 +9,9 @@ No API key needed — just run it and get real-time data!
 
 # Features
 
--  Live game **scoreboard** (teams, scores, clock, and current quarter)
+- Live game **scoreboard** (teams, scores, clock, and current quarter)
 
--  Simple and beginner-friendly code using `requests` and `pprint`
+- Simple and beginner-friendly code using `requests` and `pprint`
 
 ---
 
